@@ -1,7 +1,6 @@
 # Create Blazor Menu Bar Component in Blazor Server App
 
-The [Blazor Menu Bar](https://www.syncfusion.com/blazor-components/blazor-menu-bar?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples) is a graphical user interface component that serves as a navigation header for your web application or site.
-A quick start blazor server app that allows you to configure the Blazor Menu Bar component from Syncfusion with its available options. This project contains simple code customizations, as well as some important features such as data binding, adding icons, multilevel nesting and change its orientation.
+The [Blazor Menu Bar](https://www.syncfusion.com/blazor-components/blazor-menu-bar?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples) is a graphical user interface component that serves as a navigation header for your web application or site. A quick start blazor server app that allows you to configure the Blazor Menu Bar component from Syncfusion with its available options. This project contains simple code customizations, as well as some important features such as data binding, adding icons, multilevel nesting and change its orientation.
 
 ## Project prerequisites
 
@@ -16,7 +15,7 @@ To run this application, you need to first clone the `create-blazor-menu-bar-com
 ### Accessibility
 
 It helps in dynamic content change and development of advanced user interface controls with AJAX, HTML, JavaScript, and related technologies.
--The web [accessibility](https://blazor.syncfusion.com/documentation/menu-bar/accessibility?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples) makes web content and web applications more accessible for people with disabilities
+The web [accessibility](https://blazor.syncfusion.com/documentation/menu-bar/accessibility?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples) makes web content and web applications more accessible for people with disabilities.
 
 ### Data binding
 
@@ -64,7 +63,7 @@ Blazor Menu control supports several built-in themes such as Tailwind CSS, Boots
 
 
 ## About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Menu Bar, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram, Word Processor, and more.
+The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Menu Bar, we provide popular Blazor Components such as DataGrid, Charts, Scheduler, Diagram, Word Processor, and more.
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
