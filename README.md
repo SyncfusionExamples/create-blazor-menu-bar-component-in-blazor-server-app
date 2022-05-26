@@ -53,11 +53,11 @@ Blazor Menu control supports several built-in themes such as Tailwind CSS, Boots
 
 [View Demos](https://github.com/SyncfusionExamples/create-blazor-menu-bar-component-in-blazor-server-app?utm_source=github&utm_medium=listing&utm_campaign=blazor-menu-bar-github-samples)
 
-[Online example](https://blazor.syncfusion.com/demos/menu-bar/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-menu-bar-github-samples)
-
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-menu-bar-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-menu-bar-github-samples)
+
+[Online example](https://blazor.syncfusion.com/demos/menu-bar/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-menu-bar-github-samples)
 
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/menu-bar?utm_source=github&utm_medium=listing&utm_campaign=blazor-menu-bar-github-samples)
 
